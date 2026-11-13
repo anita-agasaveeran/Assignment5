@@ -11,9 +11,9 @@ This repository holds my short story on **Archetypal Analysis (AA)**: a Medium a
 
 | Deliverable | Link |
 |---|---|
-| Medium article | [TODO: add Medium link](#) — draft in [`article/medium_article.md`](article/medium_article.md) |
-| Slide deck (SlideShare) | [TODO: add SlideShare link](#) |
-| Slides (PDF, in this repo) | [`slides/`](slides/) — TODO: export the 20-slide deck to PDF/PPTX and add it here |
+| Medium article | [Archetypal Analysis: Finding the Extremes That Explain Your Data](https://medium.com/@anita.agasaveeran/archetypal-analysis-finding-the-extremes-that-explain-your-data-ed56a53a62da) — source in [`article/medium_article.md`](article/medium_article.md) |
+| Slide deck (SlideShare) | [Archetypal Analysis: Finding the Extremes That Explain Your Data](https://www.scribd.com/document/1096573656/Archetypal-Analysis-Finding-the-Extremes-That-Explain-Your-Data) |
+| Slides (PDF, in this repo) | [`slides/slidedeck.pdf`](slides/slidedeck.pdf) |
 | Presentation video (10–15 min) | [`video/`](video/) — TODO: add file |
 | Source paper (PDF) | [`2504.12392v3.pdf`](2504.12392v3.pdf) |
 
@@ -70,7 +70,8 @@ AA is an **unsupervised** method for **dimensionality reduction**, **matrix fact
 │   └── make_figures.py       # Regenerates every figure in images/
 ├── images/                   # All original figures used in the article and slides
 ├── requirements.txt
-├── slides/                   # Slide deck (PDF / PPTX)  — TODO
+├── slides/
+│   └── slidedeck.pdf         # 20-slide deck (also on SlideShare)
 └── video/                    # Recorded presentation    — TODO
 ```
 

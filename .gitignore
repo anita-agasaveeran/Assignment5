@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 .DS_Store
+
+# Local-only helpers (Medium paste page)
+_local/
