@@ -14,7 +14,7 @@ This repository holds my short story on **Archetypal Analysis (AA)**: a Medium a
 | Medium article | [Archetypal Analysis: Finding the Extremes That Explain Your Data](https://medium.com/@anita.agasaveeran/archetypal-analysis-finding-the-extremes-that-explain-your-data-ed56a53a62da) — source in [`article/medium_article.md`](article/medium_article.md) |
 | Slide deck (SlideShare) | [Archetypal Analysis: Finding the Extremes That Explain Your Data](https://www.scribd.com/document/1096573656/Archetypal-Analysis-Finding-the-Extremes-That-Explain-Your-Data) |
 | Slides (PDF, in this repo) | [`slides/slidedeck.pdf`](slides/slidedeck.pdf) |
-| Presentation video (10–15 min) | [`video/`](video/) — TODO: add file |
+| Presentation video (10–15 min) | [`video/presentation.mp4`](video/presentation.mp4) · also on [Loom](https://www.loom.com/share/1223b36313dc4c29a47c5de87e15b9bb) |
 | Source paper (PDF) | [`2504.12392v3.pdf`](2504.12392v3.pdf) |
 
 ---
@@ -72,7 +72,8 @@ AA is an **unsupervised** method for **dimensionality reduction**, **matrix fact
 ├── requirements.txt
 ├── slides/
 │   └── slidedeck.pdf         # 20-slide deck (also on SlideShare)
-└── video/                    # Recorded presentation    — TODO
+└── video/
+    └── presentation.mp4      # Recorded presentation (also on Loom)
 ```
 
 ## Original Experiments
